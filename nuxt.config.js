@@ -1,4 +1,6 @@
 export default {
+router: { base: '/trans-tech-br/' },
+
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
